@@ -1,0 +1,6 @@
+# 农民世界种植养成源码区块链游戏农场游戏DAPP区块链开发
+
+二、玩法与介绍1、准备一个WAX钱云包，创建WAX钱包账户，创建成的功就购买WAX，可通过交易所购买后提到钱包中。2、购买游戏中需要使用工具（NFT）。工具分为三类，分别产生不同的材料（材料能够换成钱）。斧头和锯子就可获得木材币，钓竿和渔船可获得食物币开始游戏至少都需要装备一个工具（如：石斧、锯子、钓鱼竿等等）。这些工具都可以通过二级市场（AtomicHub ）购买，农民玩家之间互相转让，或者在游戏中使用”Craft"进行工具合成。不同的工具，它们的功能收益和成本都会有所差异。可选择地图，进行不同的工作内容来赚取收入。1、完成后，每个工具都有一定的冷却时间，除挖掘机外（2小时），其他工具都是1小时的冷却时间，冷却时间完成后才能进行下一次挖石广。并且在冷却过程中，玩家不能移除装备。需要你每天定时操作。2、每个工具都有不同的耐久，在使用工具的过程中，耐久度会降低，玩家必须使用FWG来恢复工具耐久度。如果工具耐久度不够，玩家不能移除工具或切换另一种工具。耐久度为0，工具不会消失。不同的工具都会消耗不同的体力，使用FWF恢复体力<br>售前须知<br>example.com，确保是您所需产品；<br>example.com；<br>example.com，技术团队会给予修复，请勿以此作为退款理由；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com，一经发售，概不退款，本公司承诺系统代码无缺失、无后门，存在BUG即时修复，请买家悉知；<br>example.com,下单即默认已阅读并同意以上条款；<br>example.com：本公司所售程序仅供学习研究、模拟测试，不得使用于非法用途，不得违反国家法律，否则后果自负！如用作其他用途造成的一切法律责任后果由买家承担，与、本公司皆无关系！谢谢配合！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/QH7Dx" style="color: red;">https://mega-file.org/QH7Dx</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
